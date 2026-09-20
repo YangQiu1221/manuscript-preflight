@@ -1,0 +1,4 @@
+interface:
+  display_name: "社科论文交导师前检查"
+  short_description: "全面核对中英文论文的大小写、拼写、引文、图表及统计报告一致性"
+  default_prompt: "使用 $manuscript-preflight 检查这篇论文，中文按《心理学报》，英文按 APA 7，逐处报告错误、依据和修改建议，保留原稿。"
